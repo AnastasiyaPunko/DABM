@@ -1,0 +1,5 @@
+Sequence             		tRNA 	Bounds	tRNA	Anti	Intron Bounds	Inf	Isotype	Isotype	      
+Name                 	tRNA #	Begin	End  	Type	Codon	Begin	End	Score	CM	Score	Note
+--------             	------	-----	------	----	-----	-----	----	------	-------	-------	------
+Grigoriants_Vladimir 	1	5    	78   	Ile2	CAT	0	0	88.9	Ile2	102.9	
+Grigoriants_Vladimir 	2	15983	15911	Gly	TCC	0	0	77.5	Gly	88.9	

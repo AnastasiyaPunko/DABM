@@ -1,0 +1,146 @@
+{
+    "metadata": [
+        [
+            4,
+            "Thermoplasmata",
+            "KBaseGenomes.Genome-11.0",
+            "2023-03-10T12:38:19+0000",
+            1,
+            "anastasiyapunko",
+            140118,
+            "anastasiyapunko:narrative_1678450446357",
+            "9da4244ba09d50d5b7d7a4dde6bd5b76",
+            60880,
+            {
+                "Assembly Object": "140118/2/1",
+                "Domain": "Bacteria",
+                "GC content": "0.39633",
+                "Genetic code": "11",
+                "Genome Type": "draft isolate",
+                "MD5": "76eca973ff7614ebb01808ddfbb1f827",
+                "Name": "Unknown",
+                "Number contigs": "1",
+                "Number of CDS": "25",
+                "Number of Genome Level Warnings": "2",
+                "Number of Protein Encoding Genes": "25",
+                "Size": "21646",
+                "Source": "PROKKA annotation pipeline",
+                "Taxonomy": "Unconfirmed Organism"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2023-03-10T12:38:18+0000",
+            "creator": "anastasiyapunko",
+            "epoch": 1678451898697,
+            "extracted_ids": {},
+            "info": [
+                4,
+                "Thermoplasmata",
+                "KBaseGenomes.Genome-11.0",
+                "2023-03-10T12:38:19+0000",
+                1,
+                "anastasiyapunko",
+                140118,
+                "anastasiyapunko:narrative_1678450446357",
+                "9da4244ba09d50d5b7d7a4dde6bd5b76",
+                60880,
+                {
+                    "Assembly Object": "140118/2/1",
+                    "Domain": "Bacteria",
+                    "GC content": "0.39633",
+                    "Genetic code": "11",
+                    "Genome Type": "draft isolate",
+                    "MD5": "76eca973ff7614ebb01808ddfbb1f827",
+                    "Name": "Unknown",
+                    "Number contigs": "1",
+                    "Number of CDS": "25",
+                    "Number of Genome Level Warnings": "2",
+                    "Number of Protein Encoding Genes": "25",
+                    "Size": "21646",
+                    "Source": "PROKKA annotation pipeline",
+                    "Taxonomy": "Unconfirmed Organism"
+                }
+            ],
+            "orig_wsid": 140118,
+            "path": [
+                "140118/4/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "description": "KBase SDK method run via the KBase Execution Engine",
+                    "epoch": 1678451870000,
+                    "external_data": [],
+                    "input_ws_objects": [
+                        "140118/2/1"
+                    ],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "annotate",
+                    "method_params": [
+                        {
+                            "evalue": null,
+                            "fast": 0,
+                            "gcode": 11,
+                            "genus": null,
+                            "kingdom": "Bacteria",
+                            "mincontiglen": 1,
+                            "norrna": 0,
+                            "notrna": 0,
+                            "object_ref": "anastasiyapunko:narrative_1678450446357/35.fasta_assembly",
+                            "output_genome_name": "Thermoplasmata",
+                            "output_workspace": "anastasiyapunko:narrative_1678450446357",
+                            "rawproduct": 0,
+                            "rfam": 0,
+                            "scientific_name": null
+                        }
+                    ],
+                    "resolved_ws_objects": [
+                        "140118/2/1"
+                    ],
+                    "service": "ProkkaAnnotation",
+                    "service_ver": "1967e07320b1898db0c6998bb4549b7f1187e5a8",
+                    "subactions": [
+                        {
+                            "code_url": "https://github.com/kbaseapps/ProkkaAnnotation",
+                            "commit": "1967e07320b1898db0c6998bb4549b7f1187e5a8",
+                            "name": "ProkkaAnnotation",
+                            "ver": "1967e07320b1898db0c6998bb4549b7f1187e5a8"
+                        },
+                        {
+                            "code_url": "https://github.com/kbaseapps/AssemblyUtil",
+                            "commit": "59855bcb24014c3030e146b98c8d3e70abac1fa1",
+                            "name": "AssemblyUtil",
+                            "ver": "release"
+                        },
+                        {
+                            "code_url": "https://github.com/kbaseapps/DataFileUtil",
+                            "commit": "ee7670582db65adee442f052a52444a0d84a52a0",
+                            "name": "DataFileUtil",
+                            "ver": "release"
+                        },
+                        {
+                            "code_url": "https://github.com/kbaseapps/GenomeFileUtil",
+                            "commit": "c8c6948e0bebb9f0a6e95abe057af62b3ca57195",
+                            "name": "GenomeFileUtil",
+                            "ver": "beta"
+                        },
+                        {
+                            "code_url": "https://github.com/kbaseapps/WsLargeDataIO",
+                            "commit": "2a754eccec87112905cad0c6c69feecd95f6894d",
+                            "name": "WsLargeDataIO",
+                            "ver": "beta"
+                        }
+                    ],
+                    "time": "2023-03-10T12:37:50+0000"
+                }
+            ],
+            "refs": [
+                "140118/2/1"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Grigoriants_Vladimir.trna1 (5-78)	Length: 74 bp
+Type: Ile2	Anticodon: CAT at 35-37 (39-41)	Score: 88.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGGGCCGTAGCTTAGCCaGGTGGAGCGACGGGCTCATAACCCGTTGGcCGTCGGTTCGAATCCGGCCGGCCCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+Grigoriants_Vladimir.trna2 (15983-15911)	Length: 73 bp
+Type: Gly	Anticodon: TCC at 35-37 (15949-15947)	Score: 77.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCAGGCGTGGTGTAGCAtGGTAGCACTAGAGCCTTCCAAGCTCTCGACCCGGGTTCAAATCCCGGCGCCTGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+

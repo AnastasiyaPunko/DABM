@@ -1,0 +1,35 @@
+##gff-version 2
+##source-version GeneMark.hmm_PROKARYOTIC 3.42
+##date: Sat Mar 11 13:32:18 2023
+# Sequence file name: seq.fna
+# Model file name: GeneMark_hmm_heuristic.mod
+# RBS: false
+# Model information: Heuristic_model_for_genetic_code_11_and_GC_40
+
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	81	1229	61.482552	-	0	gene_id=1
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	1278	1847	7.160442	-	0	gene_id=2
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	1942	2883	41.815688	+	0	gene_id=3
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	2884	4077	63.342758	-	0	gene_id=4
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	4071	4502	14.886003	-	0	gene_id=5
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	4503	5639	58.028340	-	0	gene_id=6
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	5734	7179	71.996932	+	0	gene_id=7
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	7299	8009	25.359288	-	0	gene_id=8
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	8006	8485	19.426622	-	0	gene_id=9
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	8641	10989	120.798660	+	0	gene_id=10
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	11132	11332	9.763669	-	0	gene_id=11
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	11331	11918	5.197212	+	0	gene_id=12
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	11884	12585	31.950584	-	0	gene_id=13
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	12633	13163	6.737413	+	0	gene_id=14
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	13226	13618	23.705864	+	0	gene_id=15
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	13615	14844	64.688701	+	0	gene_id=16
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	14837	15418	24.728215	-	0	gene_id=17
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	15527	15886	11.944301	+	0	gene_id=18
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	16017	17273	47.384335	-	0	gene_id=19
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	17270	17875	32.741687	-	0	gene_id=20
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	17868	18518	32.767526	-	0	gene_id=21
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	18502	19038	23.645943	-	0	gene_id=22
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	19044	20060	48.200290	-	0	gene_id=23
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	20107	20361	18.732814	-	0	gene_id=24
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	20354	21145	33.792150	-	0	gene_id=25
+Grigoriants_Vladimir  genome  144700 166345  len=21646	GeneMark.hmm	CDS	21142	21645	24.648632	-	0	gene_id=26
+
